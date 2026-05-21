@@ -31,7 +31,7 @@ Pinos de debug (GPIO toggled para medição no Saleae):
 | WCET (µs)          | 61,70     | 11,10       | 17,00     | 2,80      |
 | Jitter (µs)        | 0,10      | 3,10        | 7,50      | 7,55      |
 | Deadline Miss Rate | 0%        | 0%          | 0%        | 0%        |
-| Stack Usage        | 36 words (0%) | 144 words (1%) | 60 words (1%) | 84 words (2%) |
+| Stack Usage        | 0% | 1% | 1% | 2% |
 
 ### Tabela — SMP (2 cores)
 
@@ -40,7 +40,7 @@ Pinos de debug (GPIO toggled para medição no Saleae):
 | WCET (µs)          | 65,40     | 32,20       | 77,50     | 9,40      |
 | Jitter (µs)        | 1,70      | 7,60        | 16,30     | 21,70     |
 | Deadline Miss Rate | 0%        | 0%          | 0%        | 0%        |
-| Stack Usage        | 36 words (0%) | 144 words (1%) | 60 words (1%) | 84 words (2%) |
+| Stack Usage        | 0% | 1% | 1% | 2% |
 
 ---
 
